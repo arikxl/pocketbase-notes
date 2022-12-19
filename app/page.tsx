@@ -1,7 +1,5 @@
-
 export default function HomePage() {
-``    
-    
+
 
     return (
 
@@ -11,7 +9,6 @@ export default function HomePage() {
             <h1>Home Page</h1>
 
             <p>Welcome!!!</p>
-
         </div>
 
     )
